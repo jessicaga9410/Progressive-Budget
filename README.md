@@ -25,8 +25,13 @@ THEN that will be shown on the page, and added to their transaction history when
 ## Usage
 ----
 
-- Heroku
-- MongoAtlas
+![Screenshot (104)](https://user-images.githubusercontent.com/87554644/142709202-8fad4235-f8d7-4b03-890a-e145acfad45a.png)
+
+-[Link to deployment](https://quiet-chamber-54333.herokuapp.com/)
+
+<p align="left">
+   <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-blue?style=for-the-badge" alt="MongoDB" /></a>
+</p>
 
 ## License
 ----
