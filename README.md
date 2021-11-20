@@ -29,7 +29,7 @@ THEN that will be shown on the page, and added to their transaction history when
 
 - [Link to deployment](https://quiet-chamber-54333.herokuapp.com/)
 
-This application was deployed using <p align="left">
+This application was deployed using database <p align="left">
    <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-blue?style=for-the-badge" alt="MongoDB" /></a>
 </p>
 
