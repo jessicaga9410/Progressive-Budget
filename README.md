@@ -31,7 +31,7 @@ THEN that will be shown on the page, and added to their transaction history when
 
 This application was deployed using <p align="left">
    <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-blue?style=for-the-badge" alt="MongoDB" /></a>
-</p> and Heroku
+</p>
 
 ## License
 ----
